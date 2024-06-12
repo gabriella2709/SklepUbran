@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Moje_projekty\\SklepUbran\\SklepUbran\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|d:\\moje_projekty\\sklepubran\\sklepubran\\clothingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|solutionrelative:clothingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|d:\\moje_projekty\\sklepubran\\sklepubran\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|d:\\moje_projekty\\sklepubran\\sklepubran\\clothingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|solutionrelative:clothingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F53502-0D70-42DD-9885-A69967B1BF6A}|SklepUbran.csproj|d:\\moje_projekty\\sklepubran\\sklepubran\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,18 +42,17 @@
               "RelativeToolTip": "bin\\Debug\\net6.0\\clients.json",
               "ViewState": "AQIAABYAAABgZmZmZmYmwCAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T19:06:29.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T19:06:29.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\Moje_projekty\\SklepUbran\\SklepUbran\\Message.cs",
               "RelativeDocumentMoniker": "Message.cs",
               "ToolTip": "D:\\Moje_projekty\\SklepUbran\\SklepUbran\\Message.cs",
               "RelativeToolTip": "Message.cs",
-              "ViewState": "AQIAANIAAAAAMjMzMzMfwNUAAAA2AAAA",
+              "ViewState": "AQIAANsAAACAKjMzMzMvwDcBAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T18:40:08.544Z",
               "EditorCaption": ""
@@ -68,12 +67,11 @@
               "RelativeToolTip": "Client.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:39:22.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T18:39:22.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClothingItem.cs",
               "DocumentMoniker": "D:\\Moje_projekty\\SklepUbran\\SklepUbran\\ClothingItem.cs",
               "RelativeDocumentMoniker": "ClothingItem.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABUAAABgZmZmZmYkwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:32:04.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T18:32:04.012Z"
             }
           ]
         }

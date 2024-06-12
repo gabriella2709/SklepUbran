@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SklepUbran")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b55e29366c7cddf8d581410139f3e49886dfbf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec6abca71b982e1002e8c9484b6bbd131fc8b175")]
 [assembly: System.Reflection.AssemblyProductAttribute("SklepUbran")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SklepUbran")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
