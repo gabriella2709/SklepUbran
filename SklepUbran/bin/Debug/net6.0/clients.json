@@ -1,0 +1,44 @@
+[
+  {
+    "Clients": null,
+    "Id": "1",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "FullName": "Jan Kowalski"
+  },
+  {
+    "Clients": null,
+    "Id": "2",
+    "FirstName": "Anna",
+    "LastName": "Nowak",
+    "FullName": "Anna Nowak"
+  },
+  {
+    "Clients": null,
+    "Id": "3",
+    "FirstName": "Gabriella",
+    "LastName": "Husak",
+    "FullName": "Gabriella Husak"
+  },
+  {
+    "Clients": null,
+    "Id": "4",
+    "FirstName": "Anna",
+    "LastName": "Sapsaienko",
+    "FullName": "Anna Sapsaienko"
+  },
+  {
+    "Clients": null,
+    "Id": "5",
+    "FirstName": "Oskar",
+    "LastName": "Libert",
+    "FullName": "Oskar Libert"
+  },
+  {
+    "Clients": null,
+    "Id": "6",
+    "FirstName": "Krystian",
+    "LastName": "Guminski",
+    "FullName": "Krystian Guminski"
+  }
+]

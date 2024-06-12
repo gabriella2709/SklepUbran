@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "1",
+    "Name": "Classic T-Shirt",
+    "Type": "T-shirt",
+    "Color": "Red",
+    "Size": "M",
+    "Price": 50.00,
+    "Status": "Available"
+  },
+  {
+    "Id": "2",
+    "Name": "Denim Jeans",
+    "Type": "Jeans",
+    "Color": "Blue",
+    "Size": "L",
+    "Price": 80.00,
+    "Status": "Available"
+  },
+  {
+    "Id": "3",
+    "Name": "Sukienka",
+    "Type": "Dress",
+    "Color": "Yellow",
+    "Size": "M",
+    "Price": 150.0,
+    "Status": "Availible"
+  }
+]
